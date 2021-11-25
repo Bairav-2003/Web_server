@@ -47,5 +47,7 @@ httpd.serve_forever()
 
 
 ## OUTPUT:
+![GitHub Logo](unknown.jpg)
+
 ## RESULT:
 web server was created sucessfully
